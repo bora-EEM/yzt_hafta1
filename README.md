@@ -61,4 +61,5 @@ MacOS/linux: `source venv/bin/activate`
 4. Gerekli Kütüphaneleri Yükleyin: Projenin ihtiyaç duyduğu tüm kütüphaneleri requirements.txt dosyasından otomatik olarak yükleyin.
 
 `pip install -r requirements.txt`
+
 5. Veri Setini İndirin: Bu analiz için gereken Veri Setini indirin. indirdiğiniz .csv dosyasını ilgili klasörün içine taşıyın. (Analiz kodunun veriyi bulabilmesi için bu önemlidir.)
