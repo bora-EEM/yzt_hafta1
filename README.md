@@ -36,8 +36,7 @@ Lütfen veri setini (`.csv` dosyasını) bu proje klasörünün içindeki `data/
 
 Bir terminal veya komut istemcisi açarak aşağıdaki adımları izleyin:
 
-**1. Projeyi Klonlayın (Clone):**
-Bu reponun dosyalarını bilgisayarınıza indirin. (Eğer git kullanmıyorsanız, "Download ZIP" seçeneğini de kullanabilirsiniz.)
+1. Proje Reposunu Klonlayın (Clone):Bu reponun dosyalarını bilgisayarınıza indirin. (Eğer git kullanmıyorsanız, "Download ZIP" seçeneğini de kullanabilirsiniz.)
 projeyi klonla: `git clone https://github.com/bora-EEM/yzt_hafta1.git`
 klasöre git: `cd yzt_hafta1`
 2. Sanal Ortam (Virtual Environment) Oluşturun: Bu adım, projenizin bağımlılıklarını sisteminizin genel Python kurulumundan izole eder. (Şiddetle tavsiye edilir.)
