@@ -27,8 +27,10 @@ Tüm bağımlılıklar `requirements.txt` dosyasında listelenmiştir.
 
 proje1'de kullanılan "E-Commerce Sales Dataset" veri seti Kaggle'dan temin edilmiştir.
 * **Veri Seti Linki:** [https://www.kaggle.com/datasets/berkayalan/ecommerce-sales-dataset/data](https://www.kaggle.com/datasets/berkayalan/ecommerce-sales-dataset/data)
+
 proje2'de kullanılan:Hava Durumu Veri seti drive üzerinden elde edilmiştir
 * **Veri Seti Linki** [https://drive.google.com/file/d/1hAaU2BrJJwvkPA9PGCC3LCAjjx2N23B0/view?usp=drive_link](https://drive.google.com/file/d/1hAaU2BrJJwvkPA9PGCC3LCAjjx2N23B0/view?usp=drive_link)
+
 proje3'te kullanılan: IMDb Film Veri Seti kaggle'dan temin edilmiştir
 * **Veri Seti Linki:** [https://www.kaggle.com/datasets/samruddhim/imdb-movies-analysis](https://www.kaggle.com/datasets/samruddhim/imdb-movies-analysis)
 
