@@ -1,4 +1,39 @@
-# yzt_hafta1
-yzt proje topluluğunun 3 projesi
-📊 Proje 1: E-Ticaret Satış Veri Analizi
-Amaç: Bir e-ticaret sitesine ait (kurgusal veya gerçek) bir satış veri setini analiz ederek şirketin satış performansını, popüler ürünlerini ve bölgesel dağılımını anlamak. Bu analizle birlikte yönetime "hangi ürünlere odaklanmalı"
+# Proje 1: E-Ticaret Satış Veri Analizi 📊
+
+Bu proje, Python (Pandas, Numpy, Matplotlib) kullanarak bir e-ticaret satış veri seti üzerinde gerçekleştirilen Keşifsel Veri Analizi (EDA) çalışmasını içermektedir.
+
+**Projenin Amacı:**
+Bir e-ticaret sitesine ait satış verilerini analiz ederek şirketin satış performansını, popüler ürünlerini ve bölgesel dağılımını anlamak. Bu analizle birlikte yönetime "hangi ürünlere odaklanmalı" ve "hangi şehirlerde pazarlama artırılmalı" gibi konularda içgörüler sunmaktır.
+
+---
+
+## 🚀 Başlarken
+
+Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz.
+
+### 1. Teknik Gereksinimler
+
+Proje, **Python 3.12.4** kullanılarak geliştirilmiştir. Çalıştırmak için aşağıdaki kütüphanelere ihtiyacınız vardır:
+
+* python 3.12.4
+* Pandas 2.3.3
+* Numpy 1.26.3
+* Matplotlib 3.10.7
+ (Analiz kodlarını çalıştırmak için vscode)
+
+Tüm bağımlılıklar `requirements.txt` dosyasında listelenmiştir.
+
+### 2. Veri Seti
+
+Bu analizde kullanılan "E-Commerce Sales Dataset" veri seti Kaggle'dan temin edilmiştir.
+* **Veri Seti Linki:** [https://www.kaggle.com/datasets/berkayalan/ecommerce-sales-dataset/data](https://www.kaggle.com/datasets/berkayalan/ecommerce-sales-dataset/data)
+
+Lütfen veri setini (`.csv` dosyasını) bu proje klasörünün içindeki `data/` adında bir klasöre indirin.
+
+---
+
+## 🛠️ Kurulum ve Çalıştırma Adımları
+
+Bir terminal veya komut istemcisi açarak aşağıdaki adımları izleyin:
+
+**1. Projeyi Klonlayın (Clone):**
