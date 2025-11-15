@@ -1,1 +1,6 @@
 
+python 3.12.4
+Pandas 2.3.3
+Numpy 1.26.3
+Matplotlib 3.10.7 
+(Analiz kodlarını çalıştırmak için vscode)
