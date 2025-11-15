@@ -47,13 +47,16 @@ Bir terminal veya komut istemcisi açarak aşağıdaki adımları izleyin:
 projeyi klonla: `git clone https://github.com/bora-EEM/yzt_hafta1.git`
 
 klasöre git: `cd yzt_hafta1`
+
 2. Sanal Ortam (Virtual Environment) Oluşturun: Bu adım, projenizin bağımlılıklarını sisteminizin genel Python kurulumundan izole eder. (Şiddetle tavsiye edilir.)
 
 `python -m venv venv`
+
 3. Sanal Ortamı Aktifleştirin:
 
 windows(cmd): `.\venv\Scripts\activate`
 MacOS/linux: `source venv/bin/activate`
+
 4. Gerekli Kütüphaneleri Yükleyin: Projenin ihtiyaç duyduğu tüm kütüphaneleri requirements.txt dosyasından otomatik olarak yükleyin.
 
 `pip install -r requirements.txt`
