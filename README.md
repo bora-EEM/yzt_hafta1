@@ -25,10 +25,14 @@ Tüm bağımlılıklar `requirements.txt` dosyasında listelenmiştir.
 
 ### 2. Veri Seti
 
-Bu analizde kullanılan "E-Commerce Sales Dataset" veri seti Kaggle'dan temin edilmiştir.
+proje1'de kullanılan "E-Commerce Sales Dataset" veri seti Kaggle'dan temin edilmiştir.
 * **Veri Seti Linki:** [https://www.kaggle.com/datasets/berkayalan/ecommerce-sales-dataset/data](https://www.kaggle.com/datasets/berkayalan/ecommerce-sales-dataset/data)
+proje2'de kullanılan:Hava Durumu Veri seti drive üzerinden elde edilmiştir
+* **Veri Seti Linki** [https://drive.google.com/file/d/1hAaU2BrJJwvkPA9PGCC3LCAjjx2N23B0/view?usp=drive_link](https://drive.google.com/file/d/1hAaU2BrJJwvkPA9PGCC3LCAjjx2N23B0/view?usp=drive_link)
+proje3'te kullanılan: IMDb Film Veri Seti kaggle'dan temin edilmiştir
+* **Veri Seti Linki:** [https://www.kaggle.com/datasets/samruddhim/imdb-movies-analysis](https://www.kaggle.com/datasets/samruddhim/imdb-movies-analysis)
 
-Lütfen veri setini (`.csv` dosyasını) bu proje klasörünün içindeki `data/` adında bir klasöre indirin.
+Lütfen veri setini (`.csv` dosyasını) bu projenin ilgili klasörünün içine indirin.
 
 ---
 
@@ -46,6 +50,4 @@ windows(cmd): `.\venv\Scripts\activate`
 MacOS/linux: `source venv/bin/activate`
 4. Gerekli Kütüphaneleri Yükleyin: Projenin ihtiyaç duyduğu tüm kütüphaneleri requirements.txt dosyasından otomatik olarak yükleyin.
 `pip install -r requirements.txt`
-5. Veri Setini İndirin: Bu analiz için gereken E-Ticaret Veri Setini Kaggle'dan indirin.
-https://www.kaggle.com/datasets/berkayalan/ecommerce-sales-dataset/data
-Proje ana klasöründe data adında yeni bir klasör oluşturun ve indirdiğiniz .csv dosyasını bu data/ klasörünün içine taşıyın. (Analiz kodunun veriyi bulabilmesi için bu önemlidir.)
+5. Veri Setini İndirin: Bu analiz için gereken Veri Setini indirin. indirdiğiniz .csv dosyasını ilgili klasörün içine taşıyın. (Analiz kodunun veriyi bulabilmesi için bu önemlidir.)
