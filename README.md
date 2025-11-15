@@ -19,6 +19,7 @@ Proje, **Python 3.12.4** kullanılarak geliştirilmiştir. Çalıştırmak için
 * Pandas 2.3.3
 * Numpy 1.26.3
 * Matplotlib 3.10.7
+* seaborn 0.13.2
  (Analiz kodlarını çalıştırmak için vscode)
 
 Tüm bağımlılıklar `requirements.txt` dosyasında listelenmiştir.
